@@ -2,7 +2,7 @@ import socket
 import threading
 import os
 
-HOST = '0.0.0.0'
+HOST = '127.0.0.1'
 TCP_PORT = 8000
 UDP_PORT = 9000
 BUFFER_SIZE = 1024
