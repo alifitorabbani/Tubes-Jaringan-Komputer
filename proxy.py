@@ -2,7 +2,7 @@ import socket
 import threading
 import os
 
-HOST = '172.20.10.4'
+HOST = '192.168.0.157'
 PROXY_PORT = 8080
 WEB_SERVER_HOST = '192.168.18.49'
 WEB_SERVER_PORT = 8000
