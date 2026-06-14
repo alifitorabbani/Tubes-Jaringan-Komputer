@@ -2,9 +2,9 @@ import socket
 import threading
 import os
 
-HOST = '127.0.0.1'
+HOST = '172.20.10.4'
 PROXY_PORT = 8080
-WEB_SERVER_HOST = '127.0.0.1'
+WEB_SERVER_HOST = '192.168.18.49'
 WEB_SERVER_PORT = 8000
 BUFFER_SIZE = 1024
 CACHE_DIR = './cache'

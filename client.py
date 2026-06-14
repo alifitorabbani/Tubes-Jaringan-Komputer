@@ -4,9 +4,9 @@ import threading
 import os
 import csv
 
-PROXY_HOST = '127.0.0.1'
+PROXY_HOST = '172.20.10.4'
 PROXY_PORT = 8080
-UDP_HOST = '127.0.0.1'
+UDP_HOST = '192.168.18.49'
 UDP_PORT = 9000
 BUFFER_SIZE = 1024
 UDP_COUNT = 10
